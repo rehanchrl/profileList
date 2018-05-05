@@ -1,0 +1,3 @@
+rootProject.name = 'profileList'
+
+include ':app'
