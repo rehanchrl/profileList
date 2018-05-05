@@ -1,4 +1,5 @@
 # profileList
+
 Profile List With React Native + Redux
 
 backend mengunakan backendless.com
@@ -9,4 +10,4 @@ terdapat 2 endpoint : /profiles & /highlights
 
 halaman utama berada di path .app/screens/ProfileList.js
 dan highlight berada di path .app/components/ProfileRow.js
-![alt text](https://raw.githubusercontent.com/rehanchrl/profileList/master/path/to/img.png)
+![picture](image/screenshoot.jpg)
